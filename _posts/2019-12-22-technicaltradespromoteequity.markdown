@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "TechnicalTradesPromoteEquity!"
-date:       2019-12-23 03:08:56 +0000
+date:       2019-12-22 22:08:57 -0500
 permalink:  technicaltradespromoteequity
 ---
 
