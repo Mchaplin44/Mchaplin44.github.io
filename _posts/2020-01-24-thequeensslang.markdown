@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'THEQUEEN'SSLANG'"
-date:       2020-01-25 01:51:48 +0000
+date:       2020-01-24 20:51:49 -0500
 permalink:  thequeensslang
 ---
 
